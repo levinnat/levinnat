@@ -1,8 +1,6 @@
 #### Name: Nathan
 #### Game: Learning Analytics and Educational Data Mining
-
-🌱 I’m currently learning roBERTa for a project on analyzing MOOC forum post data. <br><br>
-The best way to reach me: <a href = "mailto: nathanlevin123@gmail.com">Email </a> <br>
+Best way to reach me: <a href = "mailto: nathanlevin123@gmail.com"> email </a> <br>
 More stuff about me: www.levinnathan.com
 <!--
 **levinnat/levinnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
